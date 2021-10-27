@@ -1,5 +1,5 @@
-<h1 align="center">Hola! I'm Omor Faruk Nahid</h1>
-- 🌱 I’m currently learning **JavaScript & React**
+<h1 align="center">Hello World,I'm Omor Faruk Nahid</h1>
+- 🌱 I’m currently learning JavaScript & React
 
 - 📫 How to reach me **omornahid@gmail.com**
 
