@@ -1,4 +1,4 @@
-<h1 align="center">Hello World,I'm Omor Faruk Nahid</h1>
+<h1 align="center">Hello World,This is me Omor Faruk Nahid</h1>
  🌱 I’m currently learning JavaScript
 
  📫 How to reach me **omornahid@gmail.com**
