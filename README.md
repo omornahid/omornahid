@@ -1,5 +1,5 @@
 <h1 align="center">Hello World,This is me Omor Faruk Nahid</h1>
- 🌱 I’m currently learning JavaScript
+ 🌱 I’m currently learning React Js
 
  📫 How to reach me **omornahid@gmail.com**
 
